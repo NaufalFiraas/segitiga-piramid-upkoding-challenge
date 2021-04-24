@@ -1,0 +1,15 @@
+form {
+  margin: 50px 30px;
+}
+.container {
+  width: 70%;
+  margin: 70px auto;
+  background-color: black;
+  display: flex;
+}
+
+.container p {
+  margin: auto;
+  color: #fff;
+  text-align: center;
+}
